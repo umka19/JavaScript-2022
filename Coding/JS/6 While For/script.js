@@ -116,6 +116,8 @@ while (qRush < 3) {
     console.log (`Число: ${qRush}`);
 }
 
+//looking good for git hub
+
 
 for (let green = 0; green < 2; green++) {
     if (green == 1) break;
@@ -123,4 +125,4 @@ for (let green = 0; green < 2; green++) {
     if (purple == 1) break;
     console.log (purple);
     }
-}
+}   
